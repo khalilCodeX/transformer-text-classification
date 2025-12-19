@@ -269,20 +269,41 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Citation
 
+If you use this project, please cite:
+
 ```bibtex
 @software{emotion_classification_2024,
   title={Emotion Classification with Transformers},
-  author={Your Name},
+  author={khalilCodeX},
   year={2024},
-  url={https://github.com/yourusername/emotion-classification}
+  url={https://github.com/khalilCodeX/emotion-classification}
+}
+```
+
+If you use the emotion dataset, please cite the original paper:
+
+```bibtex
+@inproceedings{saravia-etal-2018-carer,
+    title = "{CARER}: Contextualized Affect Representations for Emotion Recognition",
+    author = "Saravia, Elvis  and
+      Liu, Hsien-Chi Toby  and
+      Huang, Yen-Hao  and
+      Wu, Junlin  and
+      Chen, Yi-Shin",
+    booktitle = "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing",
+    month = oct # "-" # nov,
+    year = "2018",
+    address = "Brussels, Belgium",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/D18-1404",
+    doi = "10.18653/v1/D18-1404",
+    pages = "3687--3697",
 }
 ```
 
 ## Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **GitHub**: [@khalilCodeX](https://github.com/khalilCodeX)
 
 ---
 
