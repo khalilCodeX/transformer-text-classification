@@ -1,0 +1,32 @@
+# Emotion Classification with Transformers
+# Python 3.8+ required
+
+# Deep Learning
+torch>=2.0.0
+transformers>=4.30.0
+
+# Datasets
+datasets>=2.14.0
+
+# Parameter-Efficient Fine-Tuning
+peft>=0.4.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# NLP
+nltk>=3.8.0
+
+# Progress bars (optional, included with transformers)
+tqdm>=4.65.0
+
+# Accelerate (optional, for multi-GPU training)
+# accelerate>=0.20.0
